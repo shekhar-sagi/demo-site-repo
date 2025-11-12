@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "hhttps://author-p96765-e1552786.adobeaemcloud.com/bin/franklin.delivery/shekhar-sagi/mydemosite/main"
+    url: "hhttps://author-p96765-e1552786.adobeaemcloud.com/bin/franklin.delivery/shekhar-sagi/demo-site-repo/main"
     type: "markup"
     suffix: ".html"
